@@ -36,6 +36,9 @@ describe(' Login test suit', () => {
         
 
       // browser.pause(5000);
+
+      // ПРОВЕРКА
+
     })
 
 });
